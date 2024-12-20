@@ -1,4 +1,4 @@
-module logger
+module github.com/lzh-1625/logger
 
 go 1.23.0
 

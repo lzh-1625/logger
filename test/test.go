@@ -1,7 +1,7 @@
 package main
 
 import (
-	"logger"
+	"github.com/lzh-1625/logger"
 	"time"
 )
 
